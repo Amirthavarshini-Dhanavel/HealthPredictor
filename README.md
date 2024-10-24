@@ -34,22 +34,29 @@ This system will have two functional modules- the backend and the frontend. The 
 
 1. Clone the repository
 
-```git clone https://github.com/yourusername/smart-health-predictor.git```
+```
+git clone https://github.com/yourusername/smart-health-predictor.git
+```
 
 2. Create a virtual environment and activate it
 
-```python -m venv venv
+```
+python -m venv venv
 source venv/bin/activate # For Unix/macOS
 venv\Scripts\activate # For Windows
 ```
 
 3. Install required dependencies inside pip essential folder
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 4. Run the application using
 
-```python -m iindex.py```
+```
+python -m iindex.py
+```
 
 or you can run the runthis.ipynb file
 
