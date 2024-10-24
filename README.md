@@ -6,7 +6,7 @@ This system will have two functional modules- the backend and the frontend. The 
 
 ## Features
 
-- Disease prediction for multiple conditions including:
+- Disease prediction for multiple conditions including
 - User-friendly web interface
 - Real-time prediction results
 - Responsive design for all devices
